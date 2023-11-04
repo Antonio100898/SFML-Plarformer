@@ -1,0 +1,24 @@
+﻿  main.cpp
+S:\Dev\C++\Games\Platformer\main.cpp(79,20): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\Dev\C++\Games\Platformer\main.cpp(80,24): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\Dev\C++\Games\Platformer\main.cpp(85,77): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\Dev\C++\Games\Platformer\main.cpp(87,76): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+S:\Dev\C++\Games\Platformer\main.cpp(104,20): warning C4244: 'initializing': conversion from 'sf::Int64' to 'float', possible loss of data
+S:\Dev\C++\Games\Platformer\main.cpp(145,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Platformer.vcxproj -> S:\Dev\C++\Games\Platformer\x64\Debug\Platformer.exe
